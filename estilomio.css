@@ -1,0 +1,39 @@
+:root {
+	--grey: #CCC;
+	--magenta:  #F06;
+}
+
+
+#containerIcon {
+	height: 10vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+
+
+#SVG1 {
+	width: 80px;
+	stroke: var(--magenta);
+	/*fill: var(--grey);*/
+	fill: rgba(100,100,100,0);
+	stroke-dasharray:  54;
+	stroke-dashoffset:  54;
+	animation: 2s ease-in forwards like;
+}
+
+
+@keyframes like {
+
+
+0%{
+	stroke-dashoffset: 54;
+}
+
+100%{
+	stroke-dashoffset: 0;
+}
+
+
+}

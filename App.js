@@ -11,8 +11,12 @@ class Persona {
 
 class UI {
 
-		addProduct(){
-
+		addProduct(Persona){
+			const productList = document.getElementById('product-list');
+			const element = document.createElement('div');
+		
+				
+			
 		}
 
 
@@ -45,13 +49,21 @@ document.getElementById('product-form')
 		const age = document.getElementById('age').value;
 		console.log(name, height, age);
 
-		const product = new Persona(name, height, age);
+		
+		var http = require('http');
+		var fs = require('fs');
+
+		fs.whiteFile('./data/personas.txt' , 'Hola',function(error){
+			if (error){
+				console.log(error)
+			}else {
+				console.log('Archivo Creado');
+			}
+		});
 
 
-		console.log(new Persona(name, height, age));
- 
 
-		// alert('Datos Cargados');
+		 alert('Datos Cargados');
 
 
 ///  Quita el Refresco por Default
