@@ -5,34 +5,41 @@
 
 
 #containerIcon {
-	height: 10vh;
+	height: 30vh;
 	display: flex;
 	justify-content: center;
 	align-items: center;
 
+
 }
+
+
+
+
 
 
 #SVG1 {
-	width: 80px;
+	width: 300px;
 	stroke: var(--magenta);
 	/*fill: var(--grey);*/
 	fill: rgba(100,100,100,0);
-	stroke-dasharray:  54;
-	stroke-dashoffset:  54;
-	animation: 2s ease-in forwards like;
+	stroke-dasharray:  1540;
+	stroke-dashoffset:  154;
+	animation: 5s ease-in forwards tutuca;
 }
 
 
-@keyframes like {
+@keyframes tutuca{
 
 
 0%{
-	stroke-dashoffset: 54;
+	stroke-dashoffset: 1540;
+	fill: rgba(100,100,100,0);
 }
 
 100%{
 	stroke-dashoffset: 0;
+	fill: rgba(100,000,00,1)
 }
 
 
