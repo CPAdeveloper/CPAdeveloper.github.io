@@ -25,8 +25,21 @@
 	fill: rgba(100,100,100,0);
 	stroke-dasharray:  1540;
 	stroke-dashoffset:  154;
+	
+}
+
+
+#SVG1.tutuca {
 	animation: 5s ease-in forwards tutuca;
 }
+
+#SVG1.aniClick {
+	animation: 5s ease-out forwards aniClick;
+}
+
+
+
+
 
 
 @keyframes tutuca{
@@ -41,6 +54,26 @@
 	stroke-dashoffset: 0;
 	fill: rgba(100,000,00,1)
 }
+
+
+}
+
+
+@keyframes aniClick{
+
+
+0%{
+	stroke-dashoffset: 0;
+	fill: rgba(100,000,00,1)
+
+
+}
+
+100%{
+	stroke-dashoffset: 1540;
+	fill: rgba(100,100,100,0);
+}
+
 
 
 }

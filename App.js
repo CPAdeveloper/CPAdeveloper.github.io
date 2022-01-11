@@ -68,5 +68,24 @@ document.getElementById('product-form')
 
 ///  Quita el Refresco por Default
 
-		e.preventDefault();
+		//e.preventDefault();
 	 })
+
+
+
+/// Reacciona al CLick
+var iconoVar = document.getElementById('SVG1')
+iconoVar.addEventListener("click", clicked)
+
+function clicked(){
+	if 	(SVG1.classList.contains('tutuca')){
+		SVG1.classList.remove('tutuca');
+		SVG1.classList.add('aniClick');
+		 } else {
+		SVG1.classList.remove('aniClick');
+		SVG1.classList.add('tutuca');
+
+		 }
+		///alert('Funciona EventListener');
+
+}
