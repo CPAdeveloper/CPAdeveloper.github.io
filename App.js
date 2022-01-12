@@ -39,7 +39,7 @@ class UI {
 document.getElementById('product-form')
 	.addEventListener('submit', function (e) {
 
-		document.getElementById
+		
 
 
 
@@ -50,16 +50,6 @@ document.getElementById('product-form')
 		console.log(name, height, age);
 
 		
-		var http = require('http');
-		var fs = require('fs');
-
-		fs.whiteFile('./data/personas.txt' , 'Hola',function(error){
-			if (error){
-				console.log(error)
-			}else {
-				console.log('Archivo Creado');
-			}
-		});
 
 
 
