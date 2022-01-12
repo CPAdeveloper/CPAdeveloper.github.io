@@ -41,7 +41,7 @@ document.getElementById('product-form')
 
 		
 
-
+		document.getElementById
 
 
 		const name = document.getElementById('name').value;
