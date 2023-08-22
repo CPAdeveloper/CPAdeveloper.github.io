@@ -1,0 +1,1753 @@
+CRITICAL - 2023-08-19 00:01:21 --> readfile(solo100.csv): Failed to open stream: No such file or directory
+in APPPATH\Views\PROBANDO\csv1.php on line 235.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'readfile(solo100.csv): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv1.php', 235)
+ 2 APPPATH\Views\PROBANDO\csv1.php(235): readfile('solo100.csv')
+ 3 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv1.php')
+ 4 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv1.php', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv1.php')
+ 7 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 00:01:23 --> readfile(solo100.csv): Failed to open stream: No such file or directory
+in APPPATH\Views\PROBANDO\csv1.php on line 235.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'readfile(solo100.csv): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv1.php', 235)
+ 2 APPPATH\Views\PROBANDO\csv1.php(235): readfile('solo100.csv')
+ 3 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv1.php')
+ 4 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv1.php', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv1.php')
+ 7 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 00:02:03 --> readfile(solo100.csv): Failed to open stream: No such file or directory
+in APPPATH\Views\PROBANDO\csv1.php on line 235.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'readfile(solo100.csv): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv1.php', 235)
+ 2 APPPATH\Views\PROBANDO\csv1.php(235): readfile('solo100.csv')
+ 3 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv1.php')
+ 4 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv1.php', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv1.php')
+ 7 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 00:02:06 --> readfile(solo100.csv): Failed to open stream: No such file or directory
+in APPPATH\Views\PROBANDO\csv1.php on line 235.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'readfile(solo100.csv): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv1.php', 235)
+ 2 APPPATH\Views\PROBANDO\csv1.php(235): readfile('solo100.csv')
+ 3 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv1.php')
+ 4 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv1.php', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv1.php')
+ 7 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 00:02:07 --> readfile(solo100.csv): Failed to open stream: No such file or directory
+in APPPATH\Views\PROBANDO\csv1.php on line 235.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'readfile(solo100.csv): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv1.php', 235)
+ 2 APPPATH\Views\PROBANDO\csv1.php(235): readfile('solo100.csv')
+ 3 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv1.php')
+ 4 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv1.php', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv1.php')
+ 7 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 00:02:22 --> readfile(\solo100.csv): Failed to open stream: No such file or directory
+in APPPATH\Views\PROBANDO\csv1.php on line 235.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'readfile(\\solo100.csv): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv1.php', 235)
+ 2 APPPATH\Views\PROBANDO\csv1.php(235): readfile('\\solo100.csv')
+ 3 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv1.php')
+ 4 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv1.php', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv1.php')
+ 7 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 00:02:23 --> readfile(\solo100.csv): Failed to open stream: No such file or directory
+in APPPATH\Views\PROBANDO\csv1.php on line 235.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'readfile(\\solo100.csv): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv1.php', 235)
+ 2 APPPATH\Views\PROBANDO\csv1.php(235): readfile('\\solo100.csv')
+ 3 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv1.php')
+ 4 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv1.php', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv1.php')
+ 7 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 00:03:50 --> fopen(solo100.csv): Failed to open stream: No such file or directory
+in APPPATH\Views\PROBANDO\csv1.php on line 237.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(solo100.csv): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv1.php', 237)
+ 2 APPPATH\Views\PROBANDO\csv1.php(237): fopen('solo100.csv', 'r')
+ 3 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv1.php')
+ 4 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv1.php', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv1.php')
+ 7 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 00:03:51 --> fopen(solo100.csv): Failed to open stream: No such file or directory
+in APPPATH\Views\PROBANDO\csv1.php on line 237.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(solo100.csv): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv1.php', 237)
+ 2 APPPATH\Views\PROBANDO\csv1.php(237): fopen('solo100.csv', 'r')
+ 3 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv1.php')
+ 4 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv1.php', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv1.php')
+ 7 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 00:04:58 --> fopen(C:
+mpp\htdocs\app\Views\PROBANDO\solo100.csv): Failed to open stream: No such file or directory
+in APPPATH\Views\PROBANDO\csv1.php on line 237.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(C:
+mpp\\htdocs\\app\\Views\\PROBANDO\\solo100.csv): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv1.php', 237)
+ 2 APPPATH\Views\PROBANDO\csv1.php(237): fopen('C:
+mpp\\htdocs\\app\\Views\\PROBANDO\\solo100.csv', 'r')
+ 3 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv1.php')
+ 4 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv1.php', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv1.php')
+ 7 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 00:04:59 --> fopen(C:
+mpp\htdocs\app\Views\PROBANDO\solo100.csv): Failed to open stream: No such file or directory
+in APPPATH\Views\PROBANDO\csv1.php on line 237.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(C:
+mpp\\htdocs\\app\\Views\\PROBANDO\\solo100.csv): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv1.php', 237)
+ 2 APPPATH\Views\PROBANDO\csv1.php(237): fopen('C:
+mpp\\htdocs\\app\\Views\\PROBANDO\\solo100.csv', 'r')
+ 3 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv1.php')
+ 4 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv1.php', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv1.php')
+ 7 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 00:13:17 --> Undefined variable $fp
+in APPPATH\Views\PROBANDO\csv2.php on line 268.
+ 1 APPPATH\Views\PROBANDO\csv2.php(268): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $fp', 'C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php', 268)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 00:13:19 --> Undefined variable $fp
+in APPPATH\Views\PROBANDO\csv2.php on line 268.
+ 1 APPPATH\Views\PROBANDO\csv2.php(268): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $fp', 'C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php', 268)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 00:14:23 --> syntax error, unexpected token "<", expecting end of file
+in APPPATH\Views\PROBANDO\csv2.php on line 267.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 00:14:24 --> syntax error, unexpected token "<", expecting end of file
+in APPPATH\Views\PROBANDO\csv2.php on line 267.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 00:15:33 --> fgetcsv(): Argument #1 ($stream) must be of type resource, string given
+in APPPATH\Views\PROBANDO\csv2.php on line 268.
+ 1 APPPATH\Views\PROBANDO\csv2.php(268): fgetcsv('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\solo100.csv', 1000, ';')
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 00:15:34 --> fgetcsv(): Argument #1 ($stream) must be of type resource, string given
+in APPPATH\Views\PROBANDO\csv2.php on line 268.
+ 1 APPPATH\Views\PROBANDO\csv2.php(268): fgetcsv('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\solo100.csv', 1000, ';')
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 00:16:14 --> fgetcsv(): Argument #1 ($stream) must be of type resource, string given
+in APPPATH\Views\PROBANDO\csv2.php on line 268.
+ 1 APPPATH\Views\PROBANDO\csv2.php(268): fgetcsv('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\solo100.csv', 1000, ',')
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 00:16:15 --> fgetcsv(): Argument #1 ($stream) must be of type resource, string given
+in APPPATH\Views\PROBANDO\csv2.php on line 268.
+ 1 APPPATH\Views\PROBANDO\csv2.php(268): fgetcsv('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\solo100.csv', 1000, ',')
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 00:19:00 --> feof(): Argument #1 ($stream) must be of type resource, string given
+in APPPATH\Views\PROBANDO\csv2.php on line 271.
+ 1 APPPATH\Views\PROBANDO\csv2.php(271): feof('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\solo100.csv')
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 00:19:01 --> feof(): Argument #1 ($stream) must be of type resource, string given
+in APPPATH\Views\PROBANDO\csv2.php on line 271.
+ 1 APPPATH\Views\PROBANDO\csv2.php(271): feof('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\solo100.csv')
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 00:19:56 --> feof(): Argument #1 ($stream) must be of type resource, string given
+in APPPATH\Views\PROBANDO\csv2.php on line 271.
+ 1 APPPATH\Views\PROBANDO\csv2.php(271): feof('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\solo100.csv')
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 00:19:57 --> feof(): Argument #1 ($stream) must be of type resource, string given
+in APPPATH\Views\PROBANDO\csv2.php on line 271.
+ 1 APPPATH\Views\PROBANDO\csv2.php(271): feof('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\solo100.csv')
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 00:20:18 --> feof(): Argument #1 ($stream) must be of type resource, string given
+in APPPATH\Views\PROBANDO\csv2.php on line 271.
+ 1 APPPATH\Views\PROBANDO\csv2.php(271): feof('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\solo100.csv')
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 00:20:19 --> feof(): Argument #1 ($stream) must be of type resource, string given
+in APPPATH\Views\PROBANDO\csv2.php on line 271.
+ 1 APPPATH\Views\PROBANDO\csv2.php(271): feof('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\solo100.csv')
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 00:20:54 --> feof(): Argument #1 ($stream) must be of type resource, string given
+in APPPATH\Views\PROBANDO\csv2.php on line 271.
+ 1 APPPATH\Views\PROBANDO\csv2.php(271): feof('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\solo100.csv')
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 00:20:54 --> feof(): Argument #1 ($stream) must be of type resource, string given
+in APPPATH\Views\PROBANDO\csv2.php on line 271.
+ 1 APPPATH\Views\PROBANDO\csv2.php(271): feof('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\solo100.csv')
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 00:23:34 --> Unmatched ')'
+in APPPATH\Views\PROBANDO\csv2.php on line 261.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 00:23:53 --> Unmatched ')'
+in APPPATH\Views\PROBANDO\csv2.php on line 261.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 00:23:54 --> Unmatched ')'
+in APPPATH\Views\PROBANDO\csv2.php on line 261.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 00:25:15 --> fclose(): Argument #1 ($stream) must be of type resource, string given
+in APPPATH\Views\PROBANDO\csv2.php on line 275.
+ 1 APPPATH\Views\PROBANDO\csv2.php(275): fclose('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\solo100.csv')
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 00:25:52 --> feof(): Argument #1 ($stream) must be of type resource, string given
+in APPPATH\Views\PROBANDO\csv2.php on line 271.
+ 1 APPPATH\Views\PROBANDO\csv2.php(271): feof('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\solo100.csv')
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 00:25:53 --> feof(): Argument #1 ($stream) must be of type resource, string given
+in APPPATH\Views\PROBANDO\csv2.php on line 271.
+ 1 APPPATH\Views\PROBANDO\csv2.php(271): feof('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\solo100.csv')
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 00:27:11 --> feof(): Argument #1 ($stream) must be of type resource, string given
+in APPPATH\Views\PROBANDO\csv2.php on line 271.
+ 1 APPPATH\Views\PROBANDO\csv2.php(271): feof('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\solo100.csv')
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 00:27:12 --> feof(): Argument #1 ($stream) must be of type resource, string given
+in APPPATH\Views\PROBANDO\csv2.php on line 271.
+ 1 APPPATH\Views\PROBANDO\csv2.php(271): feof('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\solo100.csv')
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 00:27:29 --> feof(): Argument #1 ($stream) must be of type resource, string given
+in APPPATH\Views\PROBANDO\csv2.php on line 271.
+ 1 APPPATH\Views\PROBANDO\csv2.php(271): feof('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\solo100.csv')
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 00:27:30 --> feof(): Argument #1 ($stream) must be of type resource, string given
+in APPPATH\Views\PROBANDO\csv2.php on line 271.
+ 1 APPPATH\Views\PROBANDO\csv2.php(271): feof('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\solo100.csv')
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 00:39:00 --> fgetcsv(): Argument #1 ($stream) must be of type resource, string given
+in APPPATH\Views\PROBANDO\csv2.php on line 269.
+ 1 APPPATH\Views\PROBANDO\csv2.php(269): fgetcsv('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\solo100.csv', 1000, ',')
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 00:39:01 --> fgetcsv(): Argument #1 ($stream) must be of type resource, string given
+in APPPATH\Views\PROBANDO\csv2.php on line 269.
+ 1 APPPATH\Views\PROBANDO\csv2.php(269): fgetcsv('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\solo100.csv', 1000, ',')
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 00:40:11 --> fgetcsv(): Argument #1 ($stream) must be of type resource, string given
+in APPPATH\Views\PROBANDO\csv2.php on line 269.
+ 1 APPPATH\Views\PROBANDO\csv2.php(269): fgetcsv('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\solo100.csv', 1000, ',')
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 00:41:31 --> fclose(): Argument #1 ($stream) must be of type resource, string given
+in APPPATH\Views\PROBANDO\csv2.php on line 286.
+ 1 APPPATH\Views\PROBANDO\csv2.php(286): fclose('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\solo100.csv')
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 00:41:32 --> fclose(): Argument #1 ($stream) must be of type resource, string given
+in APPPATH\Views\PROBANDO\csv2.php on line 286.
+ 1 APPPATH\Views\PROBANDO\csv2.php(286): fclose('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\solo100.csv')
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 00:42:16 --> syntax error, unexpected token "/", expecting end of file
+in APPPATH\Views\PROBANDO\csv2.php on line 284.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 00:42:40 --> syntax error, unexpected token "/", expecting end of file
+in APPPATH\Views\PROBANDO\csv2.php on line 284.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 00:42:41 --> syntax error, unexpected token "/", expecting end of file
+in APPPATH\Views\PROBANDO\csv2.php on line 284.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 00:43:05 --> fgetcsv(): Argument #1 ($stream) must be of type resource, string given
+in APPPATH\Views\PROBANDO\csv2.php on line 269.
+ 1 APPPATH\Views\PROBANDO\csv2.php(269): fgetcsv('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\solo100.csv', 1000, ',')
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 00:43:13 --> fgetcsv(): Argument #1 ($stream) must be of type resource, string given
+in APPPATH\Views\PROBANDO\csv2.php on line 269.
+ 1 APPPATH\Views\PROBANDO\csv2.php(269): fgetcsv('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\solo100.csv', 1000, ',')
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 00:43:14 --> fgetcsv(): Argument #1 ($stream) must be of type resource, string given
+in APPPATH\Views\PROBANDO\csv2.php on line 269.
+ 1 APPPATH\Views\PROBANDO\csv2.php(269): fgetcsv('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\solo100.csv', 1000, ',')
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 00:47:34 --> fclose(): Argument #1 ($stream) must be of type resource, string given
+in APPPATH\Views\PROBANDO\csv2.php on line 286.
+ 1 APPPATH\Views\PROBANDO\csv2.php(286): fclose('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\solo100.csv')
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 00:56:27 --> fgetcsv(): supplied resource is not a valid stream resource
+in APPPATH\Views\PROBANDO\csv2.php on line 270.
+ 1 APPPATH\Views\PROBANDO\csv2.php(270): fgetcsv(NULL, 1000, ',')
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 00:56:28 --> fgetcsv(): supplied resource is not a valid stream resource
+in APPPATH\Views\PROBANDO\csv2.php on line 270.
+ 1 APPPATH\Views\PROBANDO\csv2.php(270): fgetcsv(NULL, 1000, ',')
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 00:56:29 --> fgetcsv(): supplied resource is not a valid stream resource
+in APPPATH\Views\PROBANDO\csv2.php on line 270.
+ 1 APPPATH\Views\PROBANDO\csv2.php(270): fgetcsv(NULL, 1000, ',')
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 00:56:36 --> fgetcsv(): supplied resource is not a valid stream resource
+in APPPATH\Views\PROBANDO\csv2.php on line 270.
+ 1 APPPATH\Views\PROBANDO\csv2.php(270): fgetcsv(NULL, 1000, ',')
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 00:56:37 --> fgetcsv(): supplied resource is not a valid stream resource
+in APPPATH\Views\PROBANDO\csv2.php on line 270.
+ 1 APPPATH\Views\PROBANDO\csv2.php(270): fgetcsv(NULL, 1000, ',')
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 00:56:38 --> fgetcsv(): supplied resource is not a valid stream resource
+in APPPATH\Views\PROBANDO\csv2.php on line 270.
+ 1 APPPATH\Views\PROBANDO\csv2.php(270): fgetcsv(NULL, 1000, ',')
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 00:56:48 --> fclose(): Argument #1 ($stream) must be of type resource, string given
+in APPPATH\Views\PROBANDO\csv2.php on line 263.
+ 1 APPPATH\Views\PROBANDO\csv2.php(263): fclose('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\solo100.csv')
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 00:56:49 --> fclose(): Argument #1 ($stream) must be of type resource, string given
+in APPPATH\Views\PROBANDO\csv2.php on line 263.
+ 1 APPPATH\Views\PROBANDO\csv2.php(263): fclose('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\solo100.csv')
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 00:59:08 --> Undefined constant "openfile"
+in APPPATH\Views\PROBANDO\csv2.php on line 270.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 4 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 00:59:09 --> Undefined constant "openfile"
+in APPPATH\Views\PROBANDO\csv2.php on line 270.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 4 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 00:59:09 --> Undefined constant "openfile"
+in APPPATH\Views\PROBANDO\csv2.php on line 270.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 4 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:04:01 --> syntax error, unexpected token "=="
+in APPPATH\Views\PROBANDO\csv2.php on line 270.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:04:02 --> syntax error, unexpected token "=="
+in APPPATH\Views\PROBANDO\csv2.php on line 270.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:04:17 --> syntax error, unexpected token "=="
+in APPPATH\Views\PROBANDO\csv2.php on line 270.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:04:18 --> syntax error, unexpected token "=="
+in APPPATH\Views\PROBANDO\csv2.php on line 270.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:05:14 --> syntax error, unexpected token "=="
+in APPPATH\Views\PROBANDO\csv2.php on line 270.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:05:15 --> syntax error, unexpected token "=="
+in APPPATH\Views\PROBANDO\csv2.php on line 270.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:05:30 --> Unmatched '}'
+in APPPATH\Views\PROBANDO\csv2.php on line 301.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:05:31 --> Unmatched '}'
+in APPPATH\Views\PROBANDO\csv2.php on line 301.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:05:43 --> Unmatched '}'
+in APPPATH\Views\PROBANDO\csv2.php on line 301.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:05:44 --> Unmatched '}'
+in APPPATH\Views\PROBANDO\csv2.php on line 301.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:06:59 --> syntax error, unexpected token "=="
+in APPPATH\Views\PROBANDO\csv2.php on line 270.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:07:00 --> syntax error, unexpected token "=="
+in APPPATH\Views\PROBANDO\csv2.php on line 270.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:07:11 --> syntax error, unexpected token "=="
+in APPPATH\Views\PROBANDO\csv2.php on line 270.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:07:11 --> syntax error, unexpected token "=="
+in APPPATH\Views\PROBANDO\csv2.php on line 270.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:08:26 --> syntax error, unexpected token "=="
+in APPPATH\Views\PROBANDO\csv2.php on line 270.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:08:27 --> syntax error, unexpected token "=="
+in APPPATH\Views\PROBANDO\csv2.php on line 270.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:08:40 --> syntax error, unexpected token "=="
+in APPPATH\Views\PROBANDO\csv2.php on line 270.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:08:41 --> syntax error, unexpected token "=="
+in APPPATH\Views\PROBANDO\csv2.php on line 270.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:08:41 --> syntax error, unexpected token "=="
+in APPPATH\Views\PROBANDO\csv2.php on line 270.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:09:36 --> syntax error, unexpected token "=="
+in APPPATH\Views\PROBANDO\csv2.php on line 270.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:11:33 --> syntax error, unexpected token "=="
+in APPPATH\Views\PROBANDO\csv2.php on line 270.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:11:34 --> syntax error, unexpected token "=="
+in APPPATH\Views\PROBANDO\csv2.php on line 270.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:12:15 --> syntax error, unexpected token "=="
+in APPPATH\Views\PROBANDO\csv2.php on line 270.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:12:16 --> syntax error, unexpected token "=="
+in APPPATH\Views\PROBANDO\csv2.php on line 270.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:13:34 --> syntax error, unexpected token "=="
+in APPPATH\Views\PROBANDO\csv2.php on line 270.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:13:35 --> syntax error, unexpected token "=="
+in APPPATH\Views\PROBANDO\csv2.php on line 270.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:15:12 --> syntax error, unexpected token "=="
+in APPPATH\Views\PROBANDO\csv2.php on line 271.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:16:04 --> syntax error, unexpected token "=="
+in APPPATH\Views\PROBANDO\csv2.php on line 271.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:16:15 --> syntax error, unexpected token "!=="
+in APPPATH\Views\PROBANDO\csv2.php on line 271.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:16:29 --> syntax error, unexpected token "=="
+in APPPATH\Views\PROBANDO\csv2.php on line 271.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:16:29 --> syntax error, unexpected token "=="
+in APPPATH\Views\PROBANDO\csv2.php on line 271.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:17:22 --> Unmatched '}'
+in APPPATH\Views\PROBANDO\csv2.php on line 308.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:17:23 --> Unmatched '}'
+in APPPATH\Views\PROBANDO\csv2.php on line 308.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:17:35 --> Unmatched '}'
+in APPPATH\Views\PROBANDO\csv2.php on line 308.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:17:36 --> Unmatched '}'
+in APPPATH\Views\PROBANDO\csv2.php on line 308.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:18:04 --> Unmatched '}'
+in APPPATH\Views\PROBANDO\csv2.php on line 308.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:18:04 --> Unmatched '}'
+in APPPATH\Views\PROBANDO\csv2.php on line 308.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:18:17 --> Unmatched '}'
+in APPPATH\Views\PROBANDO\csv2.php on line 308.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:18:18 --> Unmatched '}'
+in APPPATH\Views\PROBANDO\csv2.php on line 308.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:18:28 --> Unmatched '}'
+in APPPATH\Views\PROBANDO\csv2.php on line 308.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:18:29 --> Unmatched '}'
+in APPPATH\Views\PROBANDO\csv2.php on line 308.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:19:52 --> syntax error, unexpected token "else"
+in APPPATH\Views\PROBANDO\csv2.php on line 308.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:20:03 --> syntax error, unexpected token "else"
+in APPPATH\Views\PROBANDO\csv2.php on line 308.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:20:21 --> syntax error, unexpected token "else"
+in APPPATH\Views\PROBANDO\csv2.php on line 308.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:22:02 --> syntax error, unexpected token "else"
+in APPPATH\Views\PROBANDO\csv2.php on line 308.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:22:17 --> syntax error, unexpected token "else"
+in APPPATH\Views\PROBANDO\csv2.php on line 308.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:22:18 --> syntax error, unexpected token "else"
+in APPPATH\Views\PROBANDO\csv2.php on line 308.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:23:22 --> fgetcsv(): supplied resource is not a valid stream resource
+in APPPATH\Views\PROBANDO\csv2.php on line 278.
+ 1 APPPATH\Views\PROBANDO\csv2.php(278): fgetcsv(NULL, 1000, ',')
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:23:23 --> fgetcsv(): supplied resource is not a valid stream resource
+in APPPATH\Views\PROBANDO\csv2.php on line 278.
+ 1 APPPATH\Views\PROBANDO\csv2.php(278): fgetcsv(NULL, 1000, ',')
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:24:06 --> Unmatched '}'
+in APPPATH\Views\PROBANDO\csv2.php on line 308.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:24:07 --> Unmatched '}'
+in APPPATH\Views\PROBANDO\csv2.php on line 308.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:24:17 --> Unmatched '}'
+in APPPATH\Views\PROBANDO\csv2.php on line 308.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:24:31 --> Unmatched '}'
+in APPPATH\Views\PROBANDO\csv2.php on line 308.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:25:27 --> Unmatched '}'
+in APPPATH\Views\PROBANDO\csv2.php on line 311.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:25:28 --> Unmatched '}'
+in APPPATH\Views\PROBANDO\csv2.php on line 311.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:26:20 --> fgetcsv(): supplied resource is not a valid stream resource
+in APPPATH\Views\PROBANDO\csv2.php on line 279.
+ 1 APPPATH\Views\PROBANDO\csv2.php(279): fgetcsv(NULL, 1000, ',')
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:26:37 --> fgetcsv(): supplied resource is not a valid stream resource
+in APPPATH\Views\PROBANDO\csv2.php on line 279.
+ 1 APPPATH\Views\PROBANDO\csv2.php(279): fgetcsv(NULL, 1000, ',')
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:26:38 --> fgetcsv(): supplied resource is not a valid stream resource
+in APPPATH\Views\PROBANDO\csv2.php on line 279.
+ 1 APPPATH\Views\PROBANDO\csv2.php(279): fgetcsv(NULL, 1000, ',')
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:26:43 --> fgetcsv(): supplied resource is not a valid stream resource
+in APPPATH\Views\PROBANDO\csv2.php on line 279.
+ 1 APPPATH\Views\PROBANDO\csv2.php(279): fgetcsv(NULL, 1000, ',')
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:26:43 --> fgetcsv(): supplied resource is not a valid stream resource
+in APPPATH\Views\PROBANDO\csv2.php on line 279.
+ 1 APPPATH\Views\PROBANDO\csv2.php(279): fgetcsv(NULL, 1000, ',')
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:26:51 --> fgetcsv(): supplied resource is not a valid stream resource
+in APPPATH\Views\PROBANDO\csv2.php on line 279.
+ 1 APPPATH\Views\PROBANDO\csv2.php(279): fgetcsv(NULL, 1000, ',')
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:26:52 --> fgetcsv(): supplied resource is not a valid stream resource
+in APPPATH\Views\PROBANDO\csv2.php on line 279.
+ 1 APPPATH\Views\PROBANDO\csv2.php(279): fgetcsv(NULL, 1000, ',')
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:27:47 --> fgetcsv(): supplied resource is not a valid stream resource
+in APPPATH\Views\PROBANDO\csv2.php on line 279.
+ 1 APPPATH\Views\PROBANDO\csv2.php(279): fgetcsv(NULL, 1000, ',')
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:27:48 --> fgetcsv(): supplied resource is not a valid stream resource
+in APPPATH\Views\PROBANDO\csv2.php on line 279.
+ 1 APPPATH\Views\PROBANDO\csv2.php(279): fgetcsv(NULL, 1000, ',')
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:30:32 --> syntax error, unexpected token "if"
+in APPPATH\Views\PROBANDO\csv2.php on line 273.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:30:33 --> syntax error, unexpected token "if"
+in APPPATH\Views\PROBANDO\csv2.php on line 273.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:35:47 --> syntax error, unexpected integer "5"
+in APPPATH\Views\PROBANDO\csv2.php on line 277.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:35:48 --> syntax error, unexpected integer "5"
+in APPPATH\Views\PROBANDO\csv2.php on line 277.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:38:24 --> syntax error, unexpected integer "5"
+in APPPATH\Views\PROBANDO\csv2.php on line 277.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:53:23 --> Undefined array key 1
+in APPPATH\Views\PROBANDO\csv2.php on line 282.
+ 1 APPPATH\Views\PROBANDO\csv2.php(282): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 1', 'C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php', 282)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:55:12 --> Undefined array key 1
+in APPPATH\Views\PROBANDO\csv2.php on line 282.
+ 1 APPPATH\Views\PROBANDO\csv2.php(282): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 1', 'C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php', 282)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 01:55:13 --> Undefined array key 1
+in APPPATH\Views\PROBANDO\csv2.php on line 282.
+ 1 APPPATH\Views\PROBANDO\csv2.php(282): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 1', 'C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php', 282)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 02:26:13 --> syntax error, unexpected identifier "menu"
+in APPPATH\Views\PROBANDO\csv2.php on line 277.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 02:26:33 --> syntax error, unexpected identifier "heroe"
+in APPPATH\Views\PROBANDO\csv2.php on line 277.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 02:26:34 --> syntax error, unexpected identifier "heroe"
+in APPPATH\Views\PROBANDO\csv2.php on line 277.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 02:26:43 --> syntax error, unexpected identifier "heroe"
+in APPPATH\Views\PROBANDO\csv2.php on line 277.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 02:34:36 --> syntax error, unexpected identifier "menu"
+in APPPATH\Views\PROBANDO\csv2.php on line 275.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 03:27:54 --> syntax error, unexpected identifier "void"
+in APPPATH\Views\PROBANDO\csv2.php on line 334.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 03:28:58 --> syntax error, unexpected token "function"
+in APPPATH\Views\PROBANDO\csv2.php on line 334.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 03:33:05 --> Undefined variable $rutaArchivo
+in APPPATH\Views\PROBANDO\csv2.php on line 294.
+ 1 APPPATH\Views\PROBANDO\csv2.php(294): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $rutaArchivo', 'C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php', 294)
+ 2 APPPATH\Views\PROBANDO\csv2.php(276): csvAArray()
+ 3 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 7 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 03:33:56 --> Undefined variable $rutaArchivo
+in APPPATH\Views\PROBANDO\csv2.php on line 294.
+ 1 APPPATH\Views\PROBANDO\csv2.php(294): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $rutaArchivo', 'C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php', 294)
+ 2 APPPATH\Views\PROBANDO\csv2.php(276): csvAArray()
+ 3 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 7 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 03:54:34 --> Cannot use temporary expression in write context
+in APPPATH\Views\PROBANDO\csv2.php on line 342.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-08-19 03:54:35 --> Cannot use temporary expression in write context
+in APPPATH\Views\PROBANDO\csv2.php on line 342.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-08-19 03:55:06 --> Cannot use temporary expression in write context
+in APPPATH\Views\PROBANDO\csv2.php on line 342.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-08-19 03:55:07 --> Cannot use temporary expression in write context
+in APPPATH\Views\PROBANDO\csv2.php on line 342.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-08-19 03:55:08 --> Cannot use temporary expression in write context
+in APPPATH\Views\PROBANDO\csv2.php on line 342.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-08-19 03:55:50 --> Cannot use temporary expression in write context
+in APPPATH\Views\PROBANDO\csv2.php on line 342.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-08-19 03:57:26 --> Cannot use temporary expression in write context
+in APPPATH\Views\PROBANDO\csv2.php on line 342.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-08-19 03:58:28 --> syntax error, unexpected token "function"
+in APPPATH\Views\PROBANDO\csv2.php on line 289.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 03:58:40 --> syntax error, unexpected token "function"
+in APPPATH\Views\PROBANDO\csv2.php on line 289.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 03:58:40 --> syntax error, unexpected token "function"
+in APPPATH\Views\PROBANDO\csv2.php on line 289.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 03:59:29 --> Cannot use temporary expression in write context
+in APPPATH\Views\PROBANDO\csv2.php on line 342.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-08-19 04:00:31 --> Cannot use temporary expression in write context
+in APPPATH\Views\PROBANDO\csv2.php on line 342.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-08-19 04:00:52 --> Cannot use temporary expression in write context
+in APPPATH\Views\PROBANDO\csv2.php on line 342.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-08-19 04:00:53 --> Cannot use temporary expression in write context
+in APPPATH\Views\PROBANDO\csv2.php on line 342.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-08-19 04:02:22 --> Cannot use temporary expression in write context
+in APPPATH\Views\PROBANDO\csv2.php on line 342.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-08-19 04:02:41 --> Undefined variable $artefacto
+in APPPATH\Views\PROBANDO\csv2.php on line 355.
+ 1 APPPATH\Views\PROBANDO\csv2.php(355): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $artefacto', 'C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php', 355)
+ 2 APPPATH\Views\PROBANDO\csv2.php(278): arrayDeColumna('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\solo100.csv', 1)
+ 3 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 7 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 04:02:42 --> Undefined variable $artefacto
+in APPPATH\Views\PROBANDO\csv2.php on line 355.
+ 1 APPPATH\Views\PROBANDO\csv2.php(355): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $artefacto', 'C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php', 355)
+ 2 APPPATH\Views\PROBANDO\csv2.php(278): arrayDeColumna('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\solo100.csv', 1)
+ 3 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 7 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 04:03:50 --> Undefined variable $artefacto
+in APPPATH\Views\PROBANDO\csv2.php on line 359.
+ 1 APPPATH\Views\PROBANDO\csv2.php(359): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $artefacto', 'C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php', 359)
+ 2 APPPATH\Views\PROBANDO\csv2.php(278): arrayDeColumna('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\solo100.csv', 1)
+ 3 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 7 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 04:03:51 --> Undefined variable $artefacto
+in APPPATH\Views\PROBANDO\csv2.php on line 359.
+ 1 APPPATH\Views\PROBANDO\csv2.php(359): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $artefacto', 'C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php', 359)
+ 2 APPPATH\Views\PROBANDO\csv2.php(278): arrayDeColumna('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\solo100.csv', 1)
+ 3 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 7 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 04:04:37 --> Undefined variable $openfile
+in APPPATH\Views\PROBANDO\csv2.php on line 358.
+ 1 APPPATH\Views\PROBANDO\csv2.php(358): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $openfile', 'C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php', 358)
+ 2 APPPATH\Views\PROBANDO\csv2.php(278): arrayDeColumna('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\solo100.csv', 1)
+ 3 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 7 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 04:04:37 --> Undefined variable $openfile
+in APPPATH\Views\PROBANDO\csv2.php on line 358.
+ 1 APPPATH\Views\PROBANDO\csv2.php(358): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $openfile', 'C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php', 358)
+ 2 APPPATH\Views\PROBANDO\csv2.php(278): arrayDeColumna('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\solo100.csv', 1)
+ 3 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 7 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 04:05:43 --> syntax error, unexpected token "*"
+in APPPATH\Views\PROBANDO\csv2.php on line 352.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 04:05:44 --> syntax error, unexpected token "*"
+in APPPATH\Views\PROBANDO\csv2.php on line 352.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 04:06:13 --> Call to undefined function arrayDeColumna()
+in APPPATH\Views\PROBANDO\csv2.php on line 278.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 4 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 04:06:13 --> Call to undefined function arrayDeColumna()
+in APPPATH\Views\PROBANDO\csv2.php on line 278.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 4 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 04:07:13 --> Cannot use temporary expression in write context
+in APPPATH\Views\PROBANDO\csv2.php on line 346.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-08-19 04:07:50 --> Undefined variable $artefacto
+in APPPATH\Views\PROBANDO\csv2.php on line 361.
+ 1 APPPATH\Views\PROBANDO\csv2.php(361): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $artefacto', 'C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php', 361)
+ 2 APPPATH\Views\PROBANDO\csv2.php(278): arrayDeColumna('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\solo100.csv', 1)
+ 3 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 7 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 04:07:51 --> Undefined variable $artefacto
+in APPPATH\Views\PROBANDO\csv2.php on line 361.
+ 1 APPPATH\Views\PROBANDO\csv2.php(361): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $artefacto', 'C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php', 361)
+ 2 APPPATH\Views\PROBANDO\csv2.php(278): arrayDeColumna('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\solo100.csv', 1)
+ 3 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 7 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 04:09:32 --> Undefined variable $artefacto
+in APPPATH\Views\PROBANDO\csv2.php on line 362.
+ 1 APPPATH\Views\PROBANDO\csv2.php(362): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $artefacto', 'C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php', 362)
+ 2 APPPATH\Views\PROBANDO\csv2.php(278): arrayDeColumna('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\solo100.csv', 1)
+ 3 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 7 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 04:09:42 --> Undefined variable $artefacto
+in APPPATH\Views\PROBANDO\csv2.php on line 362.
+ 1 APPPATH\Views\PROBANDO\csv2.php(362): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $artefacto', 'C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php', 362)
+ 2 APPPATH\Views\PROBANDO\csv2.php(278): arrayDeColumna('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\solo100.csv', 1)
+ 3 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 7 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 04:09:43 --> Undefined variable $artefacto
+in APPPATH\Views\PROBANDO\csv2.php on line 362.
+ 1 APPPATH\Views\PROBANDO\csv2.php(362): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $artefacto', 'C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php', 362)
+ 2 APPPATH\Views\PROBANDO\csv2.php(278): arrayDeColumna('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\solo100.csv', 1)
+ 3 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 7 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 04:09:52 --> Undefined variable $artefacto
+in APPPATH\Views\PROBANDO\csv2.php on line 362.
+ 1 APPPATH\Views\PROBANDO\csv2.php(362): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $artefacto', 'C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php', 362)
+ 2 APPPATH\Views\PROBANDO\csv2.php(278): arrayDeColumna('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\solo100.csv', 1)
+ 3 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 7 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 04:12:12 --> Undefined variable $artefacto
+in APPPATH\Views\PROBANDO\csv2.php on line 364.
+ 1 APPPATH\Views\PROBANDO\csv2.php(364): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $artefacto', 'C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php', 364)
+ 2 APPPATH\Views\PROBANDO\csv2.php(280): arrayDeColumna('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\solo100.csv', 1)
+ 3 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 7 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 04:12:32 --> Undefined variable $artefacto
+in APPPATH\Views\PROBANDO\csv2.php on line 364.
+ 1 APPPATH\Views\PROBANDO\csv2.php(364): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $artefacto', 'C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php', 364)
+ 2 APPPATH\Views\PROBANDO\csv2.php(280): arrayDeColumna('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\solo100.csv', 1)
+ 3 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 7 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 04:15:42 --> Undefined variable $archivo
+in APPPATH\Views\PROBANDO\csv2.php on line 363.
+ 1 APPPATH\Views\PROBANDO\csv2.php(363): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $archivo', 'C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php', 363)
+ 2 APPPATH\Views\PROBANDO\csv2.php(280): arrayDeColumna('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\solo100.csv', 1)
+ 3 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 7 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 04:15:42 --> Undefined variable $archivo
+in APPPATH\Views\PROBANDO\csv2.php on line 363.
+ 1 APPPATH\Views\PROBANDO\csv2.php(363): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $archivo', 'C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php', 363)
+ 2 APPPATH\Views\PROBANDO\csv2.php(280): arrayDeColumna('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\solo100.csv', 1)
+ 3 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 7 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 04:16:22 --> Undefined variable $archivo
+in APPPATH\Views\PROBANDO\csv2.php on line 363.
+ 1 APPPATH\Views\PROBANDO\csv2.php(363): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $archivo', 'C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php', 363)
+ 2 APPPATH\Views\PROBANDO\csv2.php(280): arrayDeColumna('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\solo100.csv', 1)
+ 3 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 7 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 04:16:23 --> Undefined variable $archivo
+in APPPATH\Views\PROBANDO\csv2.php on line 363.
+ 1 APPPATH\Views\PROBANDO\csv2.php(363): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $archivo', 'C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php', 363)
+ 2 APPPATH\Views\PROBANDO\csv2.php(280): arrayDeColumna('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\solo100.csv', 1)
+ 3 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 7 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-19 04:16:24 --> Undefined variable $archivo
+in APPPATH\Views\PROBANDO\csv2.php on line 363.
+ 1 APPPATH\Views\PROBANDO\csv2.php(363): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $archivo', 'C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php', 363)
+ 2 APPPATH\Views\PROBANDO\csv2.php(280): arrayDeColumna('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\solo100.csv', 1)
+ 3 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\app\\Views\\PROBANDO\\csv2.php')
+ 4 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('PROBANDO\\csv2.php', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('PROBANDO\\csv2.php')
+ 7 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
